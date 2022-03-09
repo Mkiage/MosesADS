@@ -29,11 +29,15 @@ git pull
 - Oranges
 - Mangos
 - apples
+- pinapples
+check it out
 
 ### LISTS
 1. Oranges
 2. Mangos
 3. Apples
+4. pinapples
+check it out
 
 ### NBA TEAMS
 1. LA Lakers
